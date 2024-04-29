@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Topherchris32
+- 👋 Hi, I’m Christopher Berry
 - 👀 I’m interested in ... Data science
 - 🌱 I’m currently learning ... Data Analytics
 - 💞️ I’m looking to collaborate on ... Analysis Projects
